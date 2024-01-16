@@ -30,4 +30,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # 2048-React-CI-CD-K8S
-# 2048-React-CI-CD-K8S
